@@ -4,6 +4,6 @@
 #### Usando a API JGraphT (jgrapht.org), implemente um programa que recebe o grafo que descreve uma rede e a indicação da máquina gerente como entrada e utiliza conceitos vistos em sala para:
 
 ```
-#### 1- Determinar se é possível encontrar a rota desejada com as restrições acima descritas.
-#### 2- Se sim, retorne a rota.
+1- Determinar se é possível encontrar a rota desejada com as restrições acima descritas.
+2- Se sim, retorne a rota.
 ```
